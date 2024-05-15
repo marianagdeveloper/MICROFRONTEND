@@ -1,6 +1,6 @@
 # Micro frontend architecture
 
-<img src="/src/assets/readme.jpg">
+<img src="/src/assets/microfrontend.jpg">
 
 This repo was created for learn about micro frontend architecture
 
