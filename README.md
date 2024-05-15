@@ -6,7 +6,7 @@ This repo was created for learn about micro frontend architecture
 
 ### Running locally
 
-- Enter in `root-config` folder and run `npm install` after run `npm start` server is running in `http://localhost:9000`
+- Enter in root folder and run `npm install` after run `npm start` server is running in `http://localhost:9000`
 
 - Enter in `form` folder and run `npm install` after run `serve:single-spa:form` server is running in `http://localhost:4200`
 
