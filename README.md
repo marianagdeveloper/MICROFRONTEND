@@ -8,9 +8,9 @@ This repo was created for learn about micro frontend architecture
 
 - Enter in root folder and run `npm install` after run `npm start` server is running in `http://localhost:9000`
 
-- Enter in `form` folder and run `npm install` after run `serve:single-spa:form` server is running in `http://localhost:4200`
+- Enter in `form` folder (angular app) and run `npm install` after run `serve:single-spa:form` server is running in `http://localhost:4200`
 
-- Enter in `list` folder and run `npm install` after run `npm start` server is running in `http://localhost:3000`
+- Enter in `list` folder (react app) and run `npm install` after run `npm start` server is running in `http://localhost:3000`
 
 - Enter in `store` folder and run `npm install` after run `npm start` server is running in `http://localhost:8500`
 
