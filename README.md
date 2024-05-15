@@ -2,7 +2,11 @@
 
 <img src="/src/assets/microfrontend.jpg">
 
+<img src="/src/assets/client-side-integration.jpg">
+
 This repo was created for learn about micro frontend architecture
+
+YouTube Video: https://www.youtube.com/watch?v=Ik4YqT_ZeLk
 
 ### Running locally
 
